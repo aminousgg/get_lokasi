@@ -1,1 +1,1 @@
-abc
+get longitude and latitude
